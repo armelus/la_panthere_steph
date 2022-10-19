@@ -780,7 +780,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF;
+    color: #000000;
 }
 
 .btn-atomic-tangerine:hover {
@@ -1045,7 +1045,7 @@ h4 {
 .citation {
     margin-left: auto;
     margin-right: auto;
-    
+
     font-size:  22px;
     font-style: italic;
     max-width: 47em;
